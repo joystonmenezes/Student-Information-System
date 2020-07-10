@@ -25,10 +25,7 @@ Demo
 Try RosarioSIS. Access the [online demonstration](https://www.rosariosis.org/demo/).
 
 
-About
------
 
-![RosarioSIS screenshot](http://www.rosariosis.org/wp-content/uploads/2013/06/rosariosis_screenshot.png)
 
 RosarioSIS has been designed to address the most important needs of administrators,
 teachers, support staff, parents, students, and clerical personnel. However, it
